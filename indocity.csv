@@ -1,0 +1,108 @@
+﻿city,city_ascii,lat,lng,country,iso2,iso3,admin_name,capital,population,id
+Sukabumi,Sukabumi,-6.9096,106.9,Indonesia,ID,IDN,Jawa Barat,,276414,1360447543
+Surakarta,Surakarta,-7.565,110.825,Indonesia,ID,IDN,Jawa Tengah,,555308,1360853933
+Bogor,Bogor,-6.57,106.75,Indonesia,ID,IDN,Jawa Barat,,918000,1360771925
+Magelang,Magelang,-7.4696,110.18,Indonesia,ID,IDN,Jawa Tengah,,111461,1360065728
+Majene,Majene,-3.5336,118.966,Indonesia,ID,IDN,Sulawesi Barat,minor,272377,1360498576
+Ende,Ende,-8.8623,121.6489,Indonesia,ID,IDN,Nusa Tenggara Timur,minor,77205,1360796329
+Maumere,Maumere,-8.6189,122.2123,Indonesia,ID,IDN,Nusa Tenggara Timur,minor,104285,1360776014
+Kediri,Kediri,-7.7896,112,Indonesia,ID,IDN,Jawa Timur,,235143,1360498846
+Sibolga,Sibolga,1.75,98.8,Indonesia,ID,IDN,Sumatera Utara,,217312,1360021193
+Binjai,Binjai,3.6204,98.5001,Indonesia,ID,IDN,Sumatera Utara,,564979,1360884608
+Tebingtinggi,Tebingtinggi,3.3304,99.13,Indonesia,ID,IDN,Sumatera Utara,,268043,1360386781
+Lhokseumawe,Lhokseumawe,5.1914,97.1415,Indonesia,ID,IDN,Aceh,,140322,1360418625
+Bekasi,Bekasi,-6.2173,106.9723,Indonesia,ID,IDN,Jawa Barat,,2378211,1360006015
+Malang,Malang,-7.98,112.61,Indonesia,ID,IDN,Jawa Timur,,805000,1360141408
+Pakalongan,Pakalongan,-6.8796,109.67,Indonesia,ID,IDN,Jawa Tengah,,272000,1360039434
+Madiun,Madiun,-7.6346,111.515,Indonesia,ID,IDN,Jawa Timur,,186099,1360921516
+Tegal,Tegal,-6.8696,109.12,Indonesia,ID,IDN,Jawa Tengah,,237084,1360035814
+Cirebon,Cirebon,-6.7333,108.5666,Indonesia,ID,IDN,Jawa Barat,,254298,1360011375
+Medan,Medan,3.58,98.65,Indonesia,ID,IDN,Sumatera Utara,admin,2115000,1360543171
+Salatiga,Salatiga,-7.3095,110.4901,Indonesia,ID,IDN,Jawa Tengah,,176000,1360433768
+Poso,Poso,-1.3896,120.76,Indonesia,ID,IDN,Sulawesi Tengah,minor,47110,1360727615
+Surabaya,Surabaya,-7.2492,112.7508,Indonesia,ID,IDN,Jawa Timur,admin,2845000,1360484663
+Jakarta,Jakarta,-6.1744,106.8294,Indonesia,ID,IDN,Jakarta,primary,9125000,1360771077
+Pematangsiantar,Pematangsiantar,2.9614,99.0615,Indonesia,ID,IDN,Sumatera Utara,,341200,1360769496
+Probolinggo,Probolinggo,-7.7496,113.15,Indonesia,ID,IDN,Jawa Timur,,181656,1360138476
+Pasuruan,Pasuruan,-7.6296,112.9,Indonesia,ID,IDN,Jawa Timur,,500000,1360084806
+Mojokerto,Mojokerto,-7.4696,112.43,Indonesia,ID,IDN,Jawa Timur,,112557,1360053101
+Baubau,Baubau,-5.4699,122.6163,Indonesia,ID,IDN,Sulawesi Tenggara,,24412,1360789994
+Parepare,Parepare,-4.0167,119.6333,Indonesia,ID,IDN,Sulawesi Selatan,,87776,1360021476
+Blitar,Blitar,-8.0696,112.15,Indonesia,ID,IDN,Jawa Timur,,132416,1360011677
+Watampone,Watampone,-4.5328,120.3334,Indonesia,ID,IDN,Sulawesi Selatan,minor,81629,1360956480
+Raba,Raba,-8.45,118.7666,Indonesia,ID,IDN,Nusa Tenggara Barat,minor,106101,1360014952
+Tuban,Tuban,-6.8995,112.05,Indonesia,ID,IDN,Jawa Timur,minor,76242,1360482232
+Pati,Pati,-6.7415,111.0347,Indonesia,ID,IDN,Jawa Tengah,minor,122785,1360407556
+Kotabumi,Kotabumi,-4.8333,104.9,Indonesia,ID,IDN,Lampung,minor,42366,1360992670
+Denpasar,Denpasar,-8.65,115.22,Indonesia,ID,IDN,Bali,admin,732344,1360848527
+Kuta,Kuta,-8.7151,115.1841,Indonesia,ID,IDN,Bali,,30012,1360003468
+Biak,Biak,-1.1615,136.0485,Indonesia,ID,IDN,Papua,minor,103610,1360911386
+Perabumulih,Perabumulih,-3.4432,104.2315,Indonesia,ID,IDN,Sumatera Selatan,minor,103470,1360148993
+Sungaipenuh,Sungaipenuh,-2.0631,101.3964,Indonesia,ID,IDN,Jambi,,95913,1360337679
+Manado,Manado,1.48,124.85,Indonesia,ID,IDN,Sulawesi Utara,admin,451893,1360771278
+Timika,Timika,-4.5496,136.89,Indonesia,ID,IDN,Papua,,26021,1360525797
+Amahai,Amahai,-3.3281,128.9405,Indonesia,ID,IDN,Maluku,minor,47653,1360767250
+Telukbutun,Telukbutun,4.217,108.2,Indonesia,ID,IDN,Kepulauan Riau,,140,1360984658
+Sampit,Sampit,-2.5329,112.95,Indonesia,ID,IDN,Kalimantan Tengah,minor,92710,1360020231
+Martapura,Martapura,-3.4135,114.8365,Indonesia,ID,IDN,Kalimantan Selatan,minor,198239,1360139854
+Jambi,Jambi,-1.59,103.61,Indonesia,ID,IDN,Jambi,admin,457090,1360645580
+Tanjungpandan,Tanjungpandan,-2.75,107.65,Indonesia,ID,IDN,Kepulauan Bangka Belitung,minor,62374,1360732632
+Sumenep,Sumenep,-7.0049,113.8496,Indonesia,ID,IDN,Jawa Timur,minor,84656,1360439354
+Tarakan,Tarakan,3.3,117.633,Indonesia,ID,IDN,Kalimantan Utara,,193069,1360080072
+Sorong,Sorong,-0.8554,131.285,Indonesia,ID,IDN,Papua Barat,,125535,1360018780
+Singkawang,Singkawang,0.912,108.9655,Indonesia,ID,IDN,Kalimantan Barat,,248012,1360906363
+Bukittinggi,Bukittinggi,-0.3031,100.3615,Indonesia,ID,IDN,Sumatera Barat,,506964,1360552560
+Tasikmalaya,Tasikmalaya,-7.3254,108.2147,Indonesia,ID,IDN,Jawa Barat,,271143,1360027771
+Sawahlunto,Sawahlunto,-0.6663,100.7833,Indonesia,ID,IDN,Sumatera Barat,,50354,1360188622
+Langsa,Langsa,4.6736,97.9664,Indonesia,ID,IDN,Aceh,,117256,1360337304
+Ruteng,Ruteng,-8.6118,120.4698,Indonesia,ID,IDN,Nusa Tenggara Timur,minor,53976,1360084520
+Merauke,Merauke,-8.4932,140.4018,Indonesia,ID,IDN,Papua,minor,34412,1360904439
+Banyuwangi,Banyuwangi,-8.195,114.3696,Indonesia,ID,IDN,Jawa Timur,minor,172424,1360008480
+Jember,Jember,-8.1727,113.6873,Indonesia,ID,IDN,Jawa Timur,minor,298585,1360316553
+Nabire,Nabire,-3.3515,135.5134,Indonesia,ID,IDN,Papua,minor,43898,1360322221
+Lahat,Lahat,-3.8,103.5333,Indonesia,ID,IDN,Sumatera Selatan,minor,65906,1360094721
+Cilacap,Cilacap,-7.7188,109.0154,Indonesia,ID,IDN,Jawa Tengah,minor,1174964,1360503809
+Indramayu,Indramayu,-6.3356,108.319,Indonesia,ID,IDN,Jawa Barat,minor,123263,1360004807
+Praya,Praya,-8.7223,116.2923,Indonesia,ID,IDN,Nusa Tenggara Barat,minor,35183,1360664646
+Waingapu,Waingapu,-9.6582,120.253,Indonesia,ID,IDN,Nusa Tenggara Timur,minor,48828,1360882365
+Ternate,Ternate,0.793,127.363,Indonesia,ID,IDN,Maluku Utara,,187521,1360041663
+Kualakapuas,Kualakapuas,-3.0996,114.35,Indonesia,ID,IDN,Kalimantan Tengah,minor,35632,1360858401
+Balikpapan,Balikpapan,-1.25,116.83,Indonesia,ID,IDN,Kalimantan Timur,,445905,1360500922
+Bontang,Bontang,0.1333,117.5,Indonesia,ID,IDN,Kalimantan Timur,,101691,1360692406
+Singaraja,Singaraja,-8.1152,115.0944,Indonesia,ID,IDN,Bali,minor,234468,1360426282
+Pinrang,Pinrang,-3.7857,119.6522,Indonesia,ID,IDN,Sulawesi Selatan,minor,182731,1360941841
+Makale,Makale,-3.0968,119.8531,Indonesia,ID,IDN,Sulawesi Selatan,minor,9960,1360576738
+Palopo,Palopo,-3.0999,120.2363,Indonesia,ID,IDN,Sulawesi Selatan,,2444,1360740288
+Luwuk,Luwuk,-0.9396,122.79,Indonesia,ID,IDN,Sulawesi Tengah,minor,47778,1360727028
+Tarutung,Tarutung,2.0171,98.9667,Indonesia,ID,IDN,Sumatera Utara,minor,1305,1360333240
+Padangsidempuan,Padangsidempuan,1.3887,99.2734,Indonesia,ID,IDN,Sumatera Utara,,266882,1360506609
+Padangpanjang,Padangpanjang,-0.4496,100.4167,Indonesia,ID,IDN,Sumatera Barat,,44096,1360231049
+Ambon,Ambon,-3.7167,128.2,Indonesia,ID,IDN,Maluku,admin,355596,1360756802
+Padang,Padang,-0.96,100.36,Indonesia,ID,IDN,Sumatera Barat,admin,855000,1360900986
+Banda Aceh,Banda Aceh,5.55,95.32,Indonesia,ID,IDN,Aceh,admin,513698,1360353144
+Bandar Lampung,Bandar Lampung,-5.43,105.27,Indonesia,ID,IDN,Lampung,admin,865000,1360243491
+Bandung,Bandung,-6.95,107.57,Indonesia,ID,IDN,Jawa Barat,admin,2394000,1360313023
+Bandjarmasin,Bandjarmasin,-3.33,114.5801,Indonesia,ID,IDN,Kalimantan Selatan,admin,603576,1360685223
+Bengkulu,Bengkulu,-3.8,102.27,Indonesia,ID,IDN,Bengkulu,admin,426673,1360191448
+Gorontalo,Gorontalo,0.55,123.07,Indonesia,ID,IDN,Gorontalo,admin,365497,1360408580
+Jayapura,Jayapura,-2.533,140.7,Indonesia,ID,IDN,Papua,admin,169341,1360517692
+Kendari,Kendari,-3.9553,122.5973,Indonesia,ID,IDN,Sulawesi Tenggara,admin,165377,1360992102
+Kupang,Kupang,-10.1787,123.583,Indonesia,ID,IDN,Nusa Tenggara Timur,admin,282396,1360696757
+Ujungpandang,Ujungpandang,-5.14,119.432,Indonesia,ID,IDN,Sulawesi Selatan,admin,1262000,1360051337
+Mamuju,Mamuju,-2.6806,118.8861,Indonesia,ID,IDN,Sulawesi Barat,admin,,1360687242
+Manokwari,Manokwari,-0.8711,134.0693,Indonesia,ID,IDN,Papua Barat,admin,74504,1360451991
+Palangkaraya,Palangkaraya,-2.2096,113.91,Indonesia,ID,IDN,Kalimantan Tengah,admin,148289,1360268553
+Palembang,Palembang,-2.98,104.75,Indonesia,ID,IDN,Sumatera Selatan,admin,1749000,1360902897
+Palu,Palu,-0.907,119.833,Indonesia,ID,IDN,Sulawesi Tengah,admin,612445,1360518272
+Pangkalpinang,Pangkalpinang,-2.08,106.15,Indonesia,ID,IDN,Kepulauan Bangka Belitung,admin,125933,1360901919
+Pekanbaru,Pekanbaru,0.565,101.425,Indonesia,ID,IDN,Riau,admin,799000,1360422679
+Pontianak,Pontianak,-0.03,109.32,Indonesia,ID,IDN,Kalimantan Barat,admin,607311,1360992394
+Samarinda,Samarinda,-0.5,117.15,Indonesia,ID,IDN,Kalimantan Timur,admin,592228,1360684979
+Semarang,Semarang,-6.9666,110.42,Indonesia,ID,IDN,Jawa Tengah,admin,1396000,1360745537
+Serang,Serang,-6.11,106.1496,Indonesia,ID,IDN,Banten,admin,164767,1360329102
+Tanjung Selor,Tanjung Selor,2.8375,117.3653,Indonesia,ID,IDN,Kalimantan Utara,admin,,1360029270
+Tanjungpinang,Tanjungpinang,0.9168,104.4714,Indonesia,ID,IDN,Kepulauan Riau,admin,226666,1360990589
+Yogyakarta,Yogyakarta,-7.78,110.375,Indonesia,ID,IDN,Yogyakarta,admin,636660,1360384833
+Mataram,Mataram,-8.5795,116.135,Indonesia,ID,IDN,Nusa Tenggara Barat,admin,499409,1360021952
+Sofifi,Sofifi,0.7373,127.5588,Indonesia,ID,IDN,Maluku Utara,admin,,1360431437
+Tidore,Tidore,0.6964,127.436,Indonesia,ID,IDN,Maluku Utara,,60611,1360827216
